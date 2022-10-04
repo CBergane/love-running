@@ -8,7 +8,13 @@ assignees: ''
 ---
 
 Ass a **role** I can **capability** so that **benefit**
+  
+  # Acceptence criteria
+  - Acceptence criteria 1
+  - Acceptence criteria 2
+  - Acceptence criteria 3
 
   # Tasks
-- [ ] Update the view: the poll design (HTML and CSS) to include the checkbox and to show the name of the submitter
-- [ ] Create a new field in the model to track the username
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
