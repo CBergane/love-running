@@ -8,3 +8,7 @@ assignees: ''
 ---
 
 Ass a **role** I can **capability** so that **benefit**
+
+- [  ] Task 1
+- [  ] Task 2
+- [  ] Task 3
